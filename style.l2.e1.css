@@ -1,0 +1,20 @@
+
+    .div_um{
+        height: 50px;
+        width: 50px;
+        border: 2px;
+        border-color: green;
+        background-color:red; 
+        margin-top: 100px;  
+    }
+    .div_dois{
+        background-color: black;
+        height: 50vw;
+        width: 50%; 
+        border: 10px;
+        border-style: dashed;
+        border-color: red;
+        margin-left: 100px;
+        margin-top: 100px; 
+        }   
+        
